@@ -1,0 +1,23 @@
+{
+  "name": "cp-webpack-plugin",
+  "version": "1.0.0",
+  "description": "cp-webpack-plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whoopschat/cp-webpack-plugin.git"
+  },
+  "keywords": [
+    "copy",
+    "webpack"
+  ],
+  "author": "liangmayong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whoopschat/cp-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/whoopschat/cp-webpack-plugin#readme"
+}
